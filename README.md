@@ -53,7 +53,7 @@ Servo motors have three wires. The red is power (VCC usually requiring 4.8V to 7
 ### Code
 
 <div style="text-align:center">
-<img src="./Pictures/Code.png" alt="Code" width="400"/>
+<img src="./Pictures/Code.png" alt="Code" width="600"/>
 </div>
 
 
