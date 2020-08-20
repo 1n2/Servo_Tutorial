@@ -16,7 +16,7 @@ The servo motor is controlled with an electric signal either analog or digital w
 
 
 <div style="text-align:center">
-<img src="./Pictures/Servo.jpeg" alt="Servo" width="400"/>
+<img src="./Pictures/Servo.jpeg" alt="Servo" width="200"/>
 </div>
 
 
