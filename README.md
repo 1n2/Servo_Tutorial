@@ -52,6 +52,11 @@ Servo motors have three wires. The red is power (VCC usually requiring 4.8V to 7
 
 ### Code
 
+<div style="text-align:center">
+<img src="./Pictures/Code.png" alt="Code" width="400"/>
+</div>
+
+
 At the top of the code, `#include <Servo.h>` allows the use of the servo library. Declare the `Servo` which is a type of object from the library, and set the variable to store the initial position of the servo's angle `int pos = 0;`
 
 The `setup()` function is called when a sketch starts. The number of pin is set with the function `.attach()` following the pin number in the parenthesis, in this case the library supports pins 9 and 10.
@@ -72,7 +77,7 @@ delay(15);
 
  Next, the second for loop code will run opposite from the first one, starting at 180 degrees and moving towards 0.  
 
-
+####[See code here...](https://create.arduino.cc/editor/nefeli94/7fe1ebce-7397-4b77-8dba-0626ceb639b8/preview)
 
 
 ### Learning Outcome
