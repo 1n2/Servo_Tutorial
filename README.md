@@ -32,7 +32,7 @@ Servo motors have three wires. The red is power (VCC usually requiring 4.8V to 7
 ### Schematic
 
 <div style="text-align:center">
-<img src="./Pictures/Schematic.png" alt="Schematic" width="400"/>
+<img src="./Pictures/Schematic.png" alt="Schematic" width="600"/>
 </div>
 
 
@@ -77,7 +77,7 @@ delay(15);
 
  Next, the second for loop code will run opposite from the first one, starting at 180 degrees and moving towards 0.  
 
-####[See code here...](https://create.arduino.cc/editor/nefeli94/7fe1ebce-7397-4b77-8dba-0626ceb639b8/preview)
+[See code here...](https://create.arduino.cc/editor/nefeli94/7fe1ebce-7397-4b77-8dba-0626ceb639b8/preview)
 
 
 ### Learning Outcome
