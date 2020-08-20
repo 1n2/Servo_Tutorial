@@ -1,4 +1,4 @@
-# Servo Tutorial 
+# Arduino Tutorial
 
 
 ## Introduction
