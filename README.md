@@ -20,7 +20,7 @@ The servo motor is controlled with an electric signal either analog or digital w
 </div>
 
 
-### Circuit  
+## Circuit  
 
 Servo motors have three wires. The red is power (VCC usually requiring 4.8V to 7.2V), brown is ground, and yellow is control signal (PWM). As a good practice, the power wire is typically red, and should be connected to the 5V pin on the Arduino board. The ground wire is typically black or brown and should be connected to a ground pin (GND) on the board. Lastly, the signal pin is typically yellow, orange or white and should be connected to pin 9 on the board.
 
@@ -41,7 +41,9 @@ Servo motors have three wires. The red is power (VCC usually requiring 4.8V to 7
 
 
 **1**. On Arduino IDE the *Sweep* example can be found under *File >  Examples > Servo > Sweep*.
+
 **2**. With the Arduino board connected, upload the sketch to the board.
+
 **3**. Now the servo will start moving from 0 to almost 180 degrees, moving back and forth. 
 
 <div style="text-align:center">
