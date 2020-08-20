@@ -73,9 +73,7 @@ delay(15);
  Next, the second for loop code will run opposite from the first one, starting at 180 degrees and moving towards 0.  
 
 
-<div>
-<iframe src="https://create.arduino.cc/editor/nefeli94/7fe1ebce-7397-4b77-8dba-0626ceb639b8/preview?embed" style="height:540px; width:100%;margin:10px 0" frameborder=0></iframe>
-</div>
+<iframe src=https://create.arduino.cc/editor/nefeli94/7fe1ebce-7397-4b77-8dba-0626ceb639b8/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
 
 
 #### Learning Outcome
