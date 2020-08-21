@@ -63,10 +63,10 @@ At the top of the code, `#include <Servo.h>` allows the use of the servo library
 
 The `setup()` function is called when a sketch starts. The number of pin is set with the function `.attach()` following the pin number in the parenthesis, in this case the library supports pins 9 and 10.
 
-Inside the `loop()` function which runs constantly there are two `for` loops including some arguments that will run through the block of code until a test condition is complete. The three arguments on the first `for` loop indicate:
+Inside the `loop()` function which runs constantly, there are two `for` loops that run through the block of code until a test condition is complete. The three values on the first `for` loop indicate:
   -  The initial value of `pos = 0;` triggers the for loop. 
-   -  The second argument checks if pos is less than or equal to 180 and loops through until its false.
-   -  The third argument increments the pos variable up by one.
+   -  The second condition checks if pos is less than or equal to 180 and loops through until its false.
+   -  The third increments the pos variable up by one.
 
 Then the new position variable is set with the function `.write()` and a delay of 15ms is added allowing the servo to reach its position. The loop code block will run until the servo reaches approximately 180 degrees and the conditions are no longer true.
 
