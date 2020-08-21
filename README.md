@@ -84,7 +84,7 @@ delay(15);
 
 ## Learning Outcome
 
-Through this tutorial a basic knowledge of what a servo motor is, how to connect them with an Arduino Micro board and utilise them in order to create simple motions has been achieved. Servos can be used in various projects involving various motions from smart gadgets, mechanical parts and even upgraded domestic appliances, where a little imagination goes a long way. Happy experimenting!
+Through this tutorial a basic knowledge of what a servo motor is, how to connect them with an Arduino Micro board and utilise them in order to create simple motions has been achieved. Servos can be used in multiple projects involving various motions from smart gadgets, mechanical parts and even upgraded domestic appliances, where a little imagination goes a long way. Happy experimenting!
 
 
 
